@@ -22,9 +22,9 @@ Además del desarrollo, tengo un sólido dominio de herramientas de diseño grá
 - **Canva**: Diseños rápidos y creativos para redes sociales y branding.  
 
 ## 📈 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=amigo-github&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=amigo-github&theme=tokyonight&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amigo-github&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+![](https://github-readme-stats.vercel.app/api?username=darlynperezz-github&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=darlynperezz-github&theme=tokyonight&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=darlynperezz-github&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
 ## 🏅 Logros  
 ![](https://github-profile-trophy.vercel.app/?username=amigo-github&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)  
