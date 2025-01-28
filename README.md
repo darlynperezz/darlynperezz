@@ -1,7 +1,3 @@
-Aquí tienes un perfil modificado para tu amigo, manteniendo un estilo propio pero resaltando sus habilidades y herramientas:  
-
----
-
 # 🌟 Desarrollador Web | Diseñador Visual  
 
 ¡Hola! Soy un apasionado desarrollador web con un enfoque creativo y funcional. Me encanta fusionar tecnología y diseño para crear soluciones digitales únicas y atractivas que dejen huella.  
@@ -39,7 +35,3 @@ Siempre estoy explorando nuevas formas de hacer las cosas mejor y de manera más
 
 ## 🌐 ¿Hablamos?  
 Estoy siempre dispuesto a colaborar en proyectos innovadores y creativos. Si tienes una idea interesante, ¡hablemos y hagámosla realidad juntos!  
-
----
-
-¿Qué te parece? 😊
