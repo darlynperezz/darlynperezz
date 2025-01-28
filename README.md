@@ -15,11 +15,12 @@
 
 ## 🎨 Herramientas Creativas  
 Además del desarrollo, tengo un sólido dominio de herramientas de diseño gráfico y visual:  
-- **Figma**: Para interfaces modernas y prototipos funcionales.  
+- **Figma**: Para interfaces modernas y prototipos funcionales.
+- **Canva**: Diseños rápidos y creativos para redes sociales y branding. 
 - **Adobe Photoshop**: Edición profesional de imágenes.  
 - **Adobe Illustrator**: Creación de gráficos vectoriales y arte digital.  
 - **Adobe InDesign**: Maquetación de contenido visual.  
-- **Canva**: Diseños rápidos y creativos para redes sociales y branding.  
+ 
 
 ## 📈 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=darlynperezz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)  
