@@ -30,9 +30,7 @@ Además del desarrollo, tengo un sólido dominio de herramientas de diseño grá
 ![](https://github-profile-trophy.vercel.app/?username=amigo-github&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)  
 
 ## ✨ Filosofía de Trabajo  
-Me apasiona fusionar diseño y desarrollo para dar vida a proyectos que destacan por su funcionalidad, impacto visual y experiencias únicas para los usuarios. Cada línea de código y cada detalle de diseño cuentan una historia que conecta.
-
-Siempre estoy en movimiento, explorando las últimas tecnologías y tendencias para adaptarme y crecer en un mundo que no deja de transformarse. Innovación, creatividad y excelencia son los pilares que me impulsan a crear soluciones que marcan la diferencia.
+Me apasiona combinar diseño y desarrollo para crear proyectos funcionales, visualmente impactantes y con experiencias únicas. Siempre en evolución, exploro tecnologías y tendencias para innovar y ofrecer soluciones que destaquen.
 
 ## 🌐 ¿Hablamos?  
 Estoy listo para colaborar en proyectos innovadores, desde sitios web modernos y funcionales hasta aplicaciones completas que destaquen por su diseño y experiencia de usuario. Mi objetivo es transformar tus ideas en soluciones impactantes y personalizadas.
