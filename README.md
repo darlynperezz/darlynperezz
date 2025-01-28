@@ -22,9 +22,9 @@ Además del desarrollo, tengo un sólido dominio de herramientas de diseño grá
 - **Canva**: Diseños rápidos y creativos para redes sociales y branding.  
 
 ## 📈 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=darlynperezz-github&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=darlynperezz-github&theme=tokyonight&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=darlynperezz-github&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+![](https://github-readme-stats.vercel.app/api?username=darlynperezz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=darlynperezz&theme=tokyonight&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=darlynperezz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
 ## 🏅 Logros  
 ![](https://github-profile-trophy.vercel.app/?username=amigo-github&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)  
@@ -35,4 +35,6 @@ Me apasiona fusionar diseño y desarrollo para dar vida a proyectos que destacan
 Siempre estoy en movimiento, explorando las últimas tecnologías y tendencias para adaptarme y crecer en un mundo que no deja de transformarse. Innovación, creatividad y excelencia son los pilares que me impulsan a crear soluciones que marcan la diferencia.
 
 ## 🌐 ¿Hablamos?  
-Estoy siempre dispuesto a colaborar en proyectos innovadores y creativos. Si tienes una idea interesante, ¡hablemos y hagámosla realidad juntos!  
+Estoy listo para colaborar en proyectos innovadores, desde sitios web modernos y funcionales hasta aplicaciones completas que destaquen por su diseño y experiencia de usuario. Mi objetivo es transformar tus ideas en soluciones impactantes y personalizadas.
+
+Si buscas un enfoque creativo, estratégico y orientado a resultados, trabajemos juntos para dar vida a tus proyectos y superar tus expectativas. ¡Hablemos y hagámoslo realidad!
