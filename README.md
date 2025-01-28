@@ -1,39 +1,45 @@
-# 👨‍💻 Frontend Developer | Diseñador Creativo  
+Aquí tienes un perfil modificado para tu amigo, manteniendo un estilo propio pero resaltando sus habilidades y herramientas:  
 
-¡Hola! Soy un desarrollador web apasionado por la tecnología y la creación de experiencias digitales impactantes. Mi enfoque está en escribir código limpio y eficiente, mientras colaboro con herramientas modernas para ofrecer soluciones funcionales y atractivas.  
+---
 
-## 💫 About Me  
-- 🌟 Desarrollador web con experiencia en frontend y backend.  
-- 💡 Habilidad para diseñar y desarrollar interfaces funcionales y visualmente atractivas.  
-- 🎨 También manejo herramientas de diseño para prototipos y creación de contenido.  
+# 🌟 Desarrollador Web | Diseñador Visual  
 
-## 💻 Tech Stack  
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
+¡Hola! Soy un apasionado desarrollador web con un enfoque creativo y funcional. Me encanta fusionar tecnología y diseño para crear soluciones digitales únicas y atractivas que dejen huella.  
+
+## 💡 Sobre Mí  
+- 🚀 Desarrollador web con experiencia en tecnologías frontend.  
+- 🎨 Experto en diseño visual y herramientas de edición creativa.  
+- 💻 Amante del aprendizaje continuo y la innovación en proyectos digitales.  
+
+## 🛠️ Tech Stack  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
 
-## 🎨 Herramientas de diseño  
-Además de mis habilidades de desarrollo, también manejo herramientas clave para diseño y creación de contenido visual:  
-- **Figma**: Diseño de interfaces y prototipos interactivos.  
-- **Canva**: Creación de gráficos y diseños creativos.  
-- **Camtasia Studio Pro**: Edición profesional de videos y tutoriales.  
+## 🎨 Herramientas Creativas  
+Además del desarrollo, tengo un sólido dominio de herramientas de diseño gráfico y visual:  
+- **Figma**: Para interfaces modernas y prototipos funcionales.  
+- **Adobe Photoshop**: Edición profesional de imágenes.  
+- **Adobe Illustrator**: Creación de gráficos vectoriales y arte digital.  
+- **Adobe InDesign**: Maquetación de contenido visual.  
+- **Canva**: Diseños rápidos y creativos para redes sociales y branding.  
 
-## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=johnmartte&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=johnmartte&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmartte&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+## 📈 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=amigo-github&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=amigo-github&theme=tokyonight&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amigo-github&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=johnmartte&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
+## 🏅 Logros  
+![](https://github-profile-trophy.vercel.app/?username=amigo-github&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)  
 
-## 🚀 Filosofía  
-Creo en el equilibrio entre diseño y desarrollo para crear proyectos que no solo funcionen bien, sino que sean visualmente impactantes y brinden una experiencia memorable al usuario.  
-Siempre estoy explorando nuevas tecnologías y herramientas para mantenerme al día en este mundo en constante cambio. 💡  
+## ✨ Filosofía de Trabajo  
+Creo en la importancia de integrar diseño y funcionalidad para lograr productos digitales que sean tan eficientes como estéticamente atractivos.  
+Siempre estoy explorando nuevas formas de hacer las cosas mejor y de manera más creativa.  
 
-## 🌐 Conecta conmigo  
-Estoy abierto a colaborar en proyectos creativos, desde páginas web modernas hasta aplicaciones completas. ¡Hablemos y demos vida a tus ideas!  
+## 🌐 ¿Hablamos?  
+Estoy siempre dispuesto a colaborar en proyectos innovadores y creativos. Si tienes una idea interesante, ¡hablemos y hagámosla realidad juntos!  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+¿Qué te parece? 😊
