@@ -1,6 +1,6 @@
 # 🌟 Desarrollador Web | Diseñador Visual  
 
-¡Hola! Soy un apasionado desarrollador web con un enfoque creativo y funcional. Me encanta fusionar tecnología y diseño para crear soluciones digitales únicas y atractivas que dejen huella.  
+¡Hola! Soy un apasionado desarrollador web con un enfoque creativo y funcional. Me encanta fusionar tecnología y diseño para crear soluciones digitales únicas y atractivas que dejen huellas.  
 
 ## 💡 Sobre Mí  
 - 🚀 Desarrollador web con experiencia en tecnologías frontend.  
@@ -31,9 +31,9 @@ Además del desarrollo, tengo un sólido dominio de herramientas de diseño grá
 ![](https://github-profile-trophy.vercel.app/?username=amigo-github&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)  
 
 ## ✨ Filosofía de Trabajo  
-Me apasiona combinar diseño y desarrollo para crear proyectos funcionales, visualmente impactantes y con experiencias únicas. Siempre en evolución, exploro tecnologías y tendencias para innovar y ofrecer soluciones que destaquen.
+Me apasiona combinar diseño, desarrollar proyectos funcionales, visualmente impactantes con experiencias únicas. Siempre en evolución, explorando tecnologías y tendencias para innovar ofreciendo soluciones que destaquen.
 
 ## 🌐 ¿Hablamos?  
-Estoy listo para colaborar en proyectos innovadores, desde sitios web modernos y funcionales hasta aplicaciones completas que destaquen por su diseño y experiencia de usuario. Mi objetivo es transformar tus ideas en soluciones impactantes y personalizadas.
+Estoy listo para colaborar en proyectos innovadores, desde sitios web modernos y funcionales hasta aplicaciones completas que se destaquen por su diseño junto a la experiencia de usuario. Mi objetivo es transformar tus ideas en soluciones impactantes y personalizadas.
 
 Si buscas un enfoque creativo, estratégico y orientado a resultados, trabajemos juntos para dar vida a tus proyectos y superar tus expectativas. ¡Hablemos y hagámoslo realidad!
