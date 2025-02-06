@@ -5,7 +5,9 @@
 ## 💡 Sobre Mí  
 - 🚀 Desarrollador web con experiencia en tecnologías frontend.  
 - 🎨 Experto en diseño visual y herramientas de edición creativa.  
-- 💻 Amante del aprendizaje continuo y la innovación en proyectos digitales.  
+- 💻 Amante del aprendizaje continuo y la innovación en proyectos digitales.
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ## 🛠️ Tech Stack  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
@@ -37,10 +39,3 @@ Me apasiona combinar diseño, desarrollar proyectos funcionales, visualmente imp
 Estoy listo para colaborar en proyectos innovadores, desde sitios web modernos y funcionales hasta aplicaciones completas que se destaquen por su diseño junto a la experiencia de usuario. Mi objetivo es transformar tus ideas en soluciones impactantes y personalizadas.
 
 Si buscas un enfoque creativo, estratégico y orientado a resultados, trabajemos juntos para dar vida a tus proyectos y superar tus expectativas. ¡Hablemos y hagámoslo realidad!
-
-## Contact us
-
-<a href="mailto:semillerodarlyn@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-
