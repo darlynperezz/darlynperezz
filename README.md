@@ -37,3 +37,8 @@ Me apasiona combinar diseño, desarrollar proyectos funcionales, visualmente imp
 Estoy listo para colaborar en proyectos innovadores, desde sitios web modernos y funcionales hasta aplicaciones completas que se destaquen por su diseño junto a la experiencia de usuario. Mi objetivo es transformar tus ideas en soluciones impactantes y personalizadas.
 
 Si buscas un enfoque creativo, estratégico y orientado a resultados, trabajemos juntos para dar vida a tus proyectos y superar tus expectativas. ¡Hablemos y hagámoslo realidad!
+
+## Contact us
+
+<a href="semillerodarlyn@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
