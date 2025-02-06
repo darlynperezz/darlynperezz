@@ -3,14 +3,12 @@
 ¡Hola! Soy un apasionado desarrollador web con un enfoque creativo y funcional. Me encanta fusionar tecnología y diseño para crear soluciones digitales únicas y atractivas que dejen huellas.  
 
 ## 💡 Sobre Mí  
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"
 
 - 🚀 Desarrollador web con experiencia en tecnologías frontend.  
 - 🎨 Experto en diseño visual y herramientas de edición creativa.  
 - 💻 Amante del aprendizaje continuo y la innovación en proyectos digitales.
-
-
-
+/>
 
 ## 🛠️ Tech Stack  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
