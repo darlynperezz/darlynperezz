@@ -40,5 +40,5 @@ Si buscas un enfoque creativo, estratégico y orientado a resultados, trabajemos
 
 ## Contact us
 
-<a href="semillerodarlyn@gmail.com" target="_blank">
+<a href="[semillerodarlyn@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
